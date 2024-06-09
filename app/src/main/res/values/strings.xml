@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">EmployeeManager</string>
+    <string name="enter_name">Enter name</string>
+    <string name="enter_phone">Enter Phone</string>
+    <string name="enter_email">Enter email</string>
+    <string name="enter_designation">Enter designation</string>
+    <string name="enter_department">Enter department</string>
+    <string name="name_cannot_be_empty">Name cannot be empty!</string>
+    <string name="please_enter_phone_number">Please enter phone number!</string>
+    <string name="please_enter_a_valid_phone_number">Please enter a valid phone number!</string>
+    <string name="please_enter_employee_email">Please enter employee Email!</string>
+    <string name="please_enter_a_valid_email">Please enter a valid Email!</string>
+    <string name="designation_cannot_be_empty">Designation cannot be empty!</string>
+    <string name="department_cannot_be_empty">Department cannot be empty!</string>
+    <string name="user_added_successfully">User added successfully</string>
+    <string name="failed_to_add_user">Failed to add User</string>
+    <string name="add_employee">Add Employee</string>
+    <string name="failed_to_fetch_employee_details">Failed to fetch employee details</string>
+    <string name="failed_to_change_status">Failed to change status</string>
+    <string name="there_are_no_inactive_employees">There are no Inactive employees</string>
+    <string name="there_are_no_active_employees">There are no Active Employees</string>
+    <string name="user_updated_successfully">User Updated Successfully</string>
+    <string name="failed_to_update_user">Failed to update user</string>
+    <string name="update_user">Update User</string>
+    <string name="search_by">Search by name or email</string>
+    <string name="no_employees_found">No Employees found</string>
+    <string name="no_entries_message">Hey there Manager. You have not added any employeed yet, click the add button below to Add an Employee</string>
+</resources>
