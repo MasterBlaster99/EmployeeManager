@@ -6,7 +6,7 @@
  #### - Dagger-Hilt, Coroutines, Retrofit
  
 ## Instructions to build and install apk
- #### - Clone this repository. Open the project in latest android studio jellyfish to avaoid any build errors and run the app using android studio
+ #### - Clone this repository. Open the project in latest android studio jellyfish to avoid build errors and run the app using android studio
  #### - OR simply install apk using this link https://drive.google.com/file/d/1IwYLlLJul12-wa0X8KH4mL0UaKfphtIy/view?usp=sharing
  
 ## Instructions to use the App
